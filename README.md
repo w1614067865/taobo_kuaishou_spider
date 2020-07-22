@@ -3,5 +3,5 @@
 
 ![微信二维码](https://github.com/w1614067865/taobo_kuaishou_spider/blob/master/weixin.jpg)
 
-#### taobao、douyin、xiaohongshu、weibo!
+#### taobao、douyin、xiaohongshu、weibo
 
