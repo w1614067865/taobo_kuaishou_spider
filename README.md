@@ -3,5 +3,5 @@
 
 ![微信二维码](.\微信二维码.jpg)
 
-#### taobao、douyin、xiaohongshu、weibo
+#### taobao、douyin、xiaohongshu、weibo!
 
